@@ -53,3 +53,42 @@ let arrLikeObj = {
 for (let i = 0; i < arrLikeObj.length; i++) {
     console.log(arrLikeObj[i]);
 }
+
+// Destructuring
+let one, two, three, four;
+
+[one, two] = [1, 2];
+console.log(one); //1
+console.log(two); //2
+
+[one, two, three] = [1, 2];
+console.log(one); //1
+console.log(two); //2
+console.log(three);//undefined
+
+[one, two] = [1, 2, 3];
+console.log(one); two//1
+console.log(two); //2
+
+[one, ...other] = [1, 23, 24, 25];
+console.log(one); //1
+console.log(other); //[23, 24, 25]
+
+[one, , , four] = [1, 2, 3, 4];
+console.log(one); //1
+console.log(four); //4
+
+let {first, last} = {first : "wein", last : "Mark"};
+console.log(first); //wein
+console.log(last); //Mark
+
+let first, last;
+({first, last} = {first : "wein", last : "Mark"});
+console.log(first); //wein
+console.log(last); //Mark
+
+//final example code
+function avg({count, sum : {min, max}}) {
+    return (min + max)/count;
+}
+avg({count : 5, sum : {min : 100, max : 200}}); //60
