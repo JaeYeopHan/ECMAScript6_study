@@ -2,6 +2,7 @@
  * Chapter 3. Spread and Rest parameter chapter
  * by Jbee
  */
+
 let prev = [3,4];
 let post = [7,8];
 let spreadObj = [1, 2, ...prev, 5, 6, ...post, 9];
