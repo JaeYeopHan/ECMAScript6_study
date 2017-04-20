@@ -2,10 +2,11 @@
 Code posted on my [blog](http://asfirstalways.tistory.com)
 
 ### Content
-1. [let, const](http://asfirstalways.tistory.com/357)
-2. [Arrow function](http://asfirstalways.tistory.com/358)
-3. [Iteration and for-of statement](http://asfirstalways.tistory.com/361)
-4. [Spread, Rest parameter](http://asfirstalways.tistory.com/363)
-5. [Destructuring and Default parameter](http://asfirstalways.tistory.com/364)
-6. [Class sugar syntax](http://asfirstalways.tistory.com/365)
-7. [Template literal](http://asfirstalways.tistory.com/366)
+1. [let, const](https://jaeyeophan.github.io/2017/04/18/let-const/)
+2. [Arrow function](https://jaeyeophan.github.io/2017/04/18/ES6-2-Arrow-function/)
+3. [Iteration and for-of statement](https://jaeyeophan.github.io/2017/04/18/ES6-3-Iteration-and-for-of-statement/)
+4. [Spread, Rest parameter](https://jaeyeophan.github.io/2017/04/18/ES6-4-Spread-Rest-parameter/)
+5. [Destructuring and Default parameter](https://jaeyeophan.github.io/2017/04/18/ES6-5-Destructuring-and-Default-Parameter/)
+6. [Class sugar syntax](https://jaeyeophan.github.io/2017/04/18/ES6-6-Class-sugar-syntax/)
+7. [Template literal](https://jaeyeophan.github.io/2017/04/19/ES6-7-Template-literal/)
+8. [Symbol](https://jaeyeophan.github.io/2017/04/20/ES6-8-Symbol/)
