@@ -1,5 +1,5 @@
 ## ECMAScript 6
-Code posted on my [blog](http://asfirstalways.tistory.com)
+Code posted on my [blog](https://jaeyeophan.github.io/)
 
 ### Content
 1. [let, const](https://jaeyeophan.github.io/2017/04/18/let-const/)
