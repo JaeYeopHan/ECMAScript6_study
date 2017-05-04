@@ -139,7 +139,7 @@ export { obj as default };
 ```js index.js
 import obj from './module1';
 
-console.log(obj.name);
+console.log(obj.name);// Jbee
 ```
 `as default`라는 키워드를 붙여 export할 수 있습니다. 이는 함수 또는 변수에도 적용 가능합니다.
 
