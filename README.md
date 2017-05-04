@@ -12,3 +12,4 @@ ES6 스터디 자료를 저장한 Repository입니다. 각 Chapter의 `README.md
 8. [Symbol](https://jaeyeophan.github.io/2017/04/20/ES6-8-Symbol/)
 9. [Iterator](https://jaeyeophan.github.io/2017/04/21/ES6-9-Iterator/)
 10. [Generator](https://jaeyeophan.github.io/categories/ECMAScript6/)
+11. [Modulization](https://jaeyeophan.github.io/2017/05/04/ES6-11-Modulization/)

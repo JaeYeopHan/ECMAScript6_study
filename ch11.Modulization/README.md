@@ -217,7 +217,5 @@ export default function foo() {}
 #### 마무리
 이상 9가지의 case로 ES6의 import와 export를 정리해봤습니다 :D
 
-ES6 모든 포스팅은 [Github Respository](https://github.com/JaeYeopHan/ECMAScript6_study)에서 확인하실 수 있습니다.
-
 
 _11. end_
