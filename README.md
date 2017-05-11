@@ -14,6 +14,7 @@ ES6 스터디 자료를 저장한 Repository입니다. 각 Chapter의 `README.md
 9. [Iterator](https://jaeyeophan.github.io/2017/04/21/ES6-9-Iterator/)
 10. [Generator](https://jaeyeophan.github.io/categories/ECMAScript6/)
 11. [Modulization](https://jaeyeophan.github.io/2017/05/04/ES6-11-Modulization/)
+12. [Array API](https://jaeyeophan.github.io/2017/05/11/ES6-12-Array-API/)
 
 ## LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="크리에이티브 커먼즈 라이선스" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
