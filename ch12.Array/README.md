@@ -172,6 +172,7 @@ const newArr = arr.slice(0, arr.length);
 console.log(arr);// [{0: 'zero'}, {1: 'one'}, {2: 'two'}]
 console.log(newArr);// [{1: 'one'}, {1: 'one'}, {2: 'two'}] is new Array
 ```
+기존의 `arr`에는 변경사항이 존재하지 않고 새로운 Array 오브젝트가 반환된 것을 확인하실 수 있습니다.
 
 </br>
 
